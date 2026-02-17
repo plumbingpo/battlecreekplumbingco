@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://battlecreekplumbingco.com/sitemap.xml
